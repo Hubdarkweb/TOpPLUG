@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by 🗽☣️🏴‍☠️🥷🗽 TOpPLUG 🗽
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @cyberbunk.joker
+//Instagram: lenin.l.k
+//Telegram: https://t.me/+Q-qFB7mK3MZjOTU0
+//GitHub: @Hubdarkweb
+//WhatsApp: +254112386921
+//want more free bot scripts? subscribe to my telegram channel: https://t.me/Hub7s
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -62,22 +62,22 @@ const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `Good Night 🌌`
+var xeonytimewisher = `Nightmare🕷️`☣️🏴‍☠️
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `Fuck you 🕸️🥷🕷️🗽☣️🕸️`
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `Fuck you too🥷🕷️🗽☣️🏴‍☠️`
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `Good Afternoon 🌅`
+var xeonytimewisher = `Almost 4:20 skunking sweet 🎶🎶🎵`
  }
  if(time2 < "11:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `whatchu doing 🕷️`
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `How was your night? full of nightmares 😂☣️🏴‍☠️🕷️🥷`
  } 
 module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
     try {
@@ -222,9 +222,9 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Tech-God▒▒▒》50%",
+"《 ███████▒▒🗽▒▒▒》50%",
 "《 ██████████▒▒》80%",
-"《 ████████████》100%",
+"《 🗽🥷🕷️🏴‍☠️☣️☣️🏴‍☠️🕷️📱🗽》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
@@ -974,7 +974,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the Tech God wa.me/917466008456 😉`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the TOpPLUG wa.me/0112386921 😉`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -1001,7 +1001,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `youtube Tech God`,
+                            body: `🗽🥷☣️🏴‍☠️🕷️🕸️`,
                             thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1016,13 +1016,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'repo':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `repo https://github.com/techgod143/TECH-GOD-BUG-BOT
-		    youtube www.youtube.com/@techgod143`,
+                    text: `repo https://github.com/Hubdarkweb/TOpPLUG.git
+		    youtube www.youtube.com/@cyberpunk.joker`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube www.youtube.com/@techgod143`,
+                            body: `SCRIPT OF ${botname} is on YouTube www.youtube.com/@cyberpunk.joker`,
                             thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1037,7 +1037,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Upi: number 9012008456\n\n' + textnate
+                    text: 'Upi: number 254112386921\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -2477,8 +2477,8 @@ break
 ┃❁ *User:* ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄  My bro
 ⚠️⚠️ ~Don't forget to subscribe~ 
-*Tech god* ~Youtube Channel~ ⚠️⚠️
-_Any help: yt link http://www.youtube.com/@techgod143_
+*TOpPLUG* ~Telegram Channel~ ⚠️⚠️
+_Any help: yt link https://t.me/+pW2IiAVrUeM0YzQ8
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
