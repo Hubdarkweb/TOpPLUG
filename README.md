@@ -1,4 +1,7 @@
-### WhatsApp Bug Bot By `Tech God`
+### WhatsApp Bug Bot By `🗽🥷☣️🏴‍☠️🕷️🗽 TOpPLUG`
+✅ I'M AFRAID OF BUGS 🐛 
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+
 Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
 ### Bot Features
 *⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
